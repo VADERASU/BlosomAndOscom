@@ -1,6 +1,6 @@
 # BlosomWebApp
 ### 1. Initially, run simulations on BLOSOM and locate the folder from data/Saves of the BLOSOM package 
-### 2. Copy this simulation folder that contains the shapefiles and inputs.txt to the location where the Integrator.py file is located.
+### 2. Copy this simulation folder that contains the shapefiles and inputs.txt to the location where the Integrator.py file is located. Data can be found here https://www.dropbox.com/sh/w5kjugg9pz67ydy/AADjdmAatGkWKxTYPJT5GoPaa?dl=0
 ### 3. Make sure all the packages are correctly installed
 ### 4. Run Integrator.py
 ### 5. It automatically generates the required folders
