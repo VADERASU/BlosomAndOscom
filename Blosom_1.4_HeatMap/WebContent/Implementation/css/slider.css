@@ -1,0 +1,64 @@
+#bodyslider {
+    background-color: white;
+    font-size: 5px;
+    font-family: 'Raleway', sans-serif;
+    fill: #921A40;
+}
+
+p {
+    color: white;
+    margin: 50px;
+}
+
+a {
+    color: #8e3232;
+}
+
+.axis {
+    fill: #921A40;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.axis .halo {
+    stroke: #921A40;
+    stroke-width: 6px;
+    stroke-linecap: round;
+}
+
+.slider .handle path {
+    stroke: #FCC82C;
+    stroke-width: 10px;
+    stroke-linecap: round;
+    pointer-events: none;
+}
+
+.slider .handle text {
+    fill: #921A40;
+    text-align: center;
+    font-size: 14px;
+    z-index:-1;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ticks {
+    font: 10px sans-serif;
+    font-color: #921A40;
+}
+
+.tick {
+    font: 14px sans-serif;
+    font-color: #921A40;
+    fill: #921A40;
+     font-family: 'Raleway', sans-serif;
+}
+
+.ticksOver {
+    font: 14px sans-serif;
+    font-color: #921A40;
+    fill: #921A40;
+    font-family: 'Raleway', sans-serif;
+}
+
+
